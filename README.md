@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaliya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer science student from India</h3>
 
-- 🔭 I’m currently working on **Website.ai**
+- 🔭 I’m currently working on ***
 
-- 🌱 I’m currently learning **React ,Angular,**
+- 🌱 I’m currently learning **React ,Angular**
 
-- 👯 I’m looking to collaborate on **Software Engineer**
+
 
 - 📫 How to reach me **aaliyasayed290@gmail.com**
 

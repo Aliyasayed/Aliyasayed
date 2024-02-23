@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React ,Angular,**
 
-- 💬 Ask me about **Html,CSS,Bootstrap,SQL,**
+- 💬 Ask me about **Html,CSS,Bootstrap,SQL,PHP**
 
 - 📫 How to reach me **aaliyasayed290@gmail.com**
 
